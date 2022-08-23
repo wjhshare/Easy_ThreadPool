@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/clion_windows/clionproject/Easy_ThreadPool/ThreadPool.cpp
+include/ThreadPool.h
+D:/clion_windows/clionproject/Easy_ThreadPool/include/ThreadPool.h
+
+D:/clion_windows/clionproject/Easy_ThreadPool/include/ThreadPool.h
+pthread.h
+-
+iostream
+-
+mutex
+-
+queue
+-
+
+D:/clion_windows/clionproject/Easy_ThreadPool/main.cpp
+iostream
+-
+include/ThreadPool.h
+D:/clion_windows/clionproject/Easy_ThreadPool/include/ThreadPool.h
+

@@ -1,0 +1,3 @@
+"D:\Clion2019\CLion 2019.3\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Easy_ThreadPool.dir/objects.a
+D:\MinGW64\mingw64\bin\ar.exe cr CMakeFiles\Easy_ThreadPool.dir/objects.a @CMakeFiles\Easy_ThreadPool.dir\objects1.rsp
+D:\MinGW64\mingw64\bin\g++.exe  -g   -Wl,--whole-archive CMakeFiles\Easy_ThreadPool.dir/objects.a -Wl,--no-whole-archive  -o Easy_ThreadPool.exe -Wl,--out-implib,libEasy_ThreadPool.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Easy_ThreadPool.dir\linklibs.rsp
