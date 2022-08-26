@@ -1,8 +1,8 @@
-# Install script for directory: D:/clion_windows/clionproject/Easy_ThreadPool
+# Install script for directory: D:/WorkProject/Easy_ThreadPool
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Easy_ThreadPool")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Easy_THreadPool")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/WorkProject/Easy_ThreadPool/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

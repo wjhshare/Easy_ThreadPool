@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/clion_windows/clionproject/Easy_ThreadPool/ThreadPool.cpp" "D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug/CMakeFiles/Easy_ThreadPool.dir/ThreadPool.cpp.obj"
-  "D:/clion_windows/clionproject/Easy_ThreadPool/main.cpp" "D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug/CMakeFiles/Easy_ThreadPool.dir/main.cpp.obj"
+  "D:/WorkProject/Easy_ThreadPool/ThreadPool.cpp" "D:/WorkProject/Easy_ThreadPool/cmake-build-debug/CMakeFiles/Easy_ThreadPool.dir/ThreadPool.cpp.obj"
+  "D:/WorkProject/Easy_ThreadPool/main.cpp" "D:/WorkProject/Easy_ThreadPool/cmake-build-debug/CMakeFiles/Easy_ThreadPool.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

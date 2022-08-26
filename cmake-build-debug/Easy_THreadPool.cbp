@@ -8,24 +8,24 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug"/>
+				<Option working_dir="D:/WorkProject/Easy_ThreadPool/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/WorkProject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/WorkProject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/WorkProject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/WorkProject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Easy_ThreadPool">
-				<Option output="D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug/Easy_ThreadPool.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug"/>
+				<Option output="D:/WorkProject/Easy_ThreadPool/cmake-build-debug/Easy_ThreadPool.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/WorkProject/Easy_ThreadPool/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="D:/clion_windows/clionproject/Easy_ThreadPool"/>
-					<Add directory="D:/clion_windows/clionproject/Easy_ThreadPool/include"/>
+					<Add directory="D:/WorkProject/Easy_ThreadPool"/>
+					<Add directory="D:/WorkProject/Easy_ThreadPool/include"/>
 					<Add directory="D:/MinGW64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
 					<Add directory="D:/MinGW64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
 					<Add directory="D:/MinGW64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
@@ -34,21 +34,21 @@
 					<Add directory="D:/MinGW64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 Easy_ThreadPool"/>
-					<CompileFile command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/WorkProject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 Easy_ThreadPool"/>
+					<CompileFile command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/WorkProject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/WorkProject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/WorkProject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Easy_ThreadPool/fast">
-				<Option output="D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug/Easy_ThreadPool.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug"/>
+				<Option output="D:/WorkProject/Easy_ThreadPool/cmake-build-debug/Easy_ThreadPool.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/WorkProject/Easy_ThreadPool/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="D:/clion_windows/clionproject/Easy_ThreadPool"/>
-					<Add directory="D:/clion_windows/clionproject/Easy_ThreadPool/include"/>
+					<Add directory="D:/WorkProject/Easy_ThreadPool"/>
+					<Add directory="D:/WorkProject/Easy_ThreadPool/include"/>
 					<Add directory="D:/MinGW64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
 					<Add directory="D:/MinGW64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
 					<Add directory="D:/MinGW64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
@@ -57,40 +57,40 @@
 					<Add directory="D:/MinGW64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 Easy_ThreadPool/fast"/>
-					<CompileFile command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/WorkProject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 Easy_ThreadPool/fast"/>
+					<CompileFile command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/WorkProject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/WorkProject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/WorkProject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug"/>
+				<Option working_dir="D:/WorkProject/Easy_ThreadPool/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/WorkProject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/WorkProject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/WorkProject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/WorkProject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug"/>
+				<Option working_dir="D:/WorkProject/Easy_ThreadPool/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/clion_windows/clionproject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/WorkProject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/WorkProject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/WorkProject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW64/mingw64/bin/mingw32-make.exe -f &quot;D:/WorkProject/Easy_ThreadPool/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/clion_windows/clionproject/Easy_ThreadPool/ThreadPool.cpp">
+		<Unit filename="D:/WorkProject/Easy_ThreadPool/ThreadPool.cpp">
 			<Option target="Easy_ThreadPool"/>
 		</Unit>
-		<Unit filename="D:/clion_windows/clionproject/Easy_ThreadPool/main.cpp">
+		<Unit filename="D:/WorkProject/Easy_ThreadPool/main.cpp">
 			<Option target="Easy_ThreadPool"/>
 		</Unit>
-		<Unit filename="D:/clion_windows/clionproject/Easy_ThreadPool/CMakeLists.txt">
+		<Unit filename="D:/WorkProject/Easy_ThreadPool/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
